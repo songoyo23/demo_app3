@@ -26,3 +26,10 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+# Ruby on Rails Tutorial: second  application
+
+This is the second  application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Miguel Obando](http://michaelhartl.com/).
+
